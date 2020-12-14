@@ -73,7 +73,7 @@ merge:
   # "required_statuses" is a list of additional status contexts that must pass
   # before bulldozer can merge a pull request. This is useful if you want to
   # require extra testing for automated merges, but not for manual merges.
-   required_statuses:
+  required_statuses:
     - "auto-merge-extra-status"
 
   # If true, bulldozer will delete branches after their pull requests merge.
