@@ -74,7 +74,7 @@ merge:
   # before bulldozer can merge a pull request. This is useful if you want to
   # require extra testing for automated merges, but not for manual merges.
    required_statuses:
-    - "Mock check"
+    - "auto-merge-extra-status"
 
   # If true, bulldozer will delete branches after their pull requests merge.
   delete_after_merge: true
