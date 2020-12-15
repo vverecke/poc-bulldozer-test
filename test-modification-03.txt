@@ -1,0 +1,2 @@
+from : test-merge-into-protected-with-checks-gh
+Test merge into protected target branch with required status checks 
