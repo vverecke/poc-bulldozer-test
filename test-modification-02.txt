@@ -1,0 +1,1 @@
+Test merge into protected target branch with required status checks (enforced only in github)
