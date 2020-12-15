@@ -1,0 +1,2 @@
+Test merge when PR matches the ignore criteria in bulldozer.yml
+This one should not reach develop
